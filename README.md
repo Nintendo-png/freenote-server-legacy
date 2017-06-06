@@ -9,3 +9,4 @@ The core PHP server Freenote is based on
 4. When the `develop` fork is stable, PR to the `master` branch. The `master` branch serves as the official server release
 
 I know it's complex but it keeps bugs out.
+ 
