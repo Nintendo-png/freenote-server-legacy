@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteRule ^(.*)\.htm$ $1.php
+RewriteRule ^(.*)\.txt$ $1.php
+RewriteRule ^(.*)\.ugo$ $1.php
+RewriteRule ^(.*)\.reply$ $1.php
+
+RewriteRule ^v2-jp/(.*) v2-us/$1
+RewriteRule ^v2-eu/(.*) v2-us/$1

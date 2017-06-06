@@ -1,0 +1,8 @@
+﻿Options +FollowSymLinks +ExecCGI
+
+<IfModule mod_rewrite.c>
+
+RewriteEngine On
+RewriteRule (.*)  kill.html [QSA]
+
+</IfModule>

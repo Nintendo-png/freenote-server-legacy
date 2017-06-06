@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteRule ^(.*)\.htm$ $1.php
+RewriteRule ^(.*)\.txt$ $1.php
+RewriteRule ^(.*)\.ugo$ $1.php
+RewriteRule ^(.*)\.reply$ $1.php

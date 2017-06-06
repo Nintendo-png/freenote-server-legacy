@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?> 	
+<application> 	
+  <component name="ProjectJdkTable"> 	
+    <jdk version="2"> 	
+      <name value="Portable Python 2.7" /> 	
+      <type value="Python SDK" /> 	
+      <version value="Python 2.7" /> 	
+      <homePath value="$APPLICATION_HOME_DIR$/../pythonw.exe" /> 	
+      <roots> 	
+        <classPath> 	
+          <root type="composite"> 	
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/.." /> 	
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/../DLLs" /> 	
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/../Lib" /> 	
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/../Lib/lib-tk" /> 	
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/../Lib/site-packages" /> 	
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/../Lib/site-packages/PIL" /> 	
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/../Lib/site-packages/gtk-2.0" /> 	
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/../Lib/site-packages/win32" /> 	
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/../Lib/site-packages/win32/lib" /> 	
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/../Lib/site-packages/pythonwin" /> 	
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/../Lib/site-packages/wx-2.9.4-msw" /> 	
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/pycharm" /> 	
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" /> 	
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/.PyCharm30/system/python_stubs/580531057" /> 	
+          </root> 	
+        </classPath> 	
+        <sourcePath> 	
+          <root type="composite" /> 	
+        </sourcePath> 	
+      </roots> 	
+      <additional> 	
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://$APPLICATION_HOME_DIR$/helpers/pycharm" /> 	
+      </additional> 	
+    </jdk> 	
+  </component> 	
+</application> 	

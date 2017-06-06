@@ -1,0 +1,226 @@
+@charset "UTF-8";
+div.news-head {
+ padding:5px 7px 5px 7px;
+ border-style:solid;
+ border-width:0 0 1px 0;
+ border-color:#6125C2;
+ background-color:#FFFFFF;
+}
+div.news-title {
+ margin:0 0 0 0;
+ padding:0 0 0 0;
+ border-style:solid;
+ border-width:3px;
+ border-color:#91C900;
+ background-color: #91C900;
+ color: #FFFFFF;
+}
+div.news-body {
+ border-style:solid;
+ border-width:3px;
+ border-color:#91C900;
+}
+div.news-h1 {
+ margin:7px 7px 0 7px;
+ padding:7px;
+ border-style:solid;
+ border-width:3px;
+ border-color:#91C900;
+}
+div.news-h2 {
+ padding:0 0 3px 7px;
+ border-style:solid;
+ border-width:0 0 1px 4px;
+ border-color:#91C900;
+}
+
+div.icon {
+	margin: 5px 0 10px 0;
+}
+
+div.memo {
+	margin:10px 0 5px 0;
+}div.notify_bar {
+ background-color:#3B5998;
+ color: #ffffff;
+}
+
+div.iconbar_container {
+  background-color: #80c000;
+  padding: 2px 9px 2px 9px;
+}
+
+div.adminmenu_container {
+  background-color: #fcfcfc;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: #cccccc;
+  margin: 3px 7px 0px 7px;
+}
+
+table.adminmenu {
+  line-height: 16px;
+}
+
+div.reportmenu_container {
+  background-color: #fcfcfc;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: #cccccc;
+  margin: 5px 7px 2px 7px;
+}
+table.reportmenu {
+  line-height: 16px;
+}
+
+div.grey_head {
+  line-height: 12px;
+  border-style: solid;
+  border-width: 1px 0px 1px 0px;
+  border-color: #80c000;
+  padding: 4px 0px 5px 0px;
+}
+
+div.top_grey_head {
+  line-height: 12px;
+  border-style: solid;
+  border-width: 0px 0px 1px 0px;
+  border-color: #80c000;
+  padding: 3px 0px 5px 0px;
+}
+
+div.orange_head {
+  line-height: 12px;
+  color: #fcfcfc;
+  background-color: #ffa040;
+  padding: 0px 0px 6px 0px;
+}
+td.profbox_row {
+  line-height: 12px;
+  height: 12px;
+  padding: 0px 0px 0px 6px;
+}
+
+div.cmnt-list {
+  background-color: #ffffff;
+  padding: 5px 3px 0px 3px;
+}
+div.cmnt-box {
+  background-color: #f4f4f4;
+  border-color: #efefef;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  margin: 3px 3px 3px 3px;
+}
+div.cmnt-rbox {
+  background-color: #ff9879;
+  border-color: #BD694F;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  margin: 3px 3px 3px 3px;
+}
+div.cmnt-gbox {
+  background-color: #e2fcaf;
+  border-color: #9be011;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  margin: 3px 3px 3px 3px;
+}
+div.cmnt-obox {
+  background-color: #fc9c53;
+  border-color: #c47c44;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  margin: 3px 3px 3px 3px;
+}
+div.cmnt-bbox {
+  background-color: #8de6fc;
+  border-color: #58aec4;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  margin: 3px 3px 3px 3px;
+}
+div.cmnt-pbox {
+  background-color: #fc83d8;
+  border-color: #933276;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  margin: 3px 3px 3px 3px;
+}
+div.text-red {
+  color: #FF0000;
+}
+
+div.search-box {
+  margin: 45px 19px 0px 19px;
+}
+
+div.badges {
+   margin: -3px -15px -13px -1px;
+}
+
+div.chnl-filler {
+  margin: 20px 20px 20px 20px
+}
+
+div.chnl-item {
+  color: #80c000;
+  padding: 3px 3px 39px 3px;
+}
+
+table.fullpage {
+  margin: 0px 0px 0px -10px;
+}
+
+div.fullpage {
+  margin: -1px 0px 0px -8px;
+}
+span.channel-label {
+  color: #80c000;
+}
+
+td.pad5 { padding: 5px; }
+
+div.ltr-head {
+  margin: 0px 0px -1px 1px;
+}
+
+div.ltr-body {}
+
+div.ltr-title {
+  padding: 3px 0px 0px 0px;
+}
+
+div.ltr-text {
+  padding: 12px 0px 0px 0px;
+  margin: 0px 12px 0px 12px;
+  line-height: 16px;
+}
+
+div.atcl-body {
+  background-color: #ffffff;
+  margin: 6px 12px 6px 12px;
+  border-color: #efefef;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+}
+div.atcl-head {
+  border-style: solid;
+  border-width: 0px 0px 1px 0px;
+  border-color: #80c000;
+  line-height: 12px;
+  padding: 6px 3px 6px 3px;
+  margin: 0px 4px 0px 4px;
+}
+div.atcl-subhead {
+  border-style: solid;
+  border-width: 0px 0px 1px 0px;
+  border-color: #cccccc;
+  line-height: 12px;
+  padding: 3px 3px 3px 3px;
+  margin: 2px 4px 2px 4px;
+}
+div.p {
+  padding: 3px 6px 3px 6px;
+  margin: 4px 0px 4px 0px;
+}
